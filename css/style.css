@@ -1,0 +1,107 @@
+
+
+body{
+margin: 0;
+}
+
+ul{
+  background-color:#2C3333;
+  padding: 2%;
+  text-align: center;
+  margin: 0;
+
+
+}
+
+h1{
+  position: relative;
+  margin: auto;
+  padding: 2%;
+  text-align: center;
+  font-family: "DynaPuff";
+
+}
+
+img{
+  padding: 2%;
+  margin-left: 200px;
+}
+
+li{
+display: inline-block;
+
+
+}
+
+a{
+ color: white;
+text-decoration: none;
+padding: 20px 20px;
+
+}
+
+a:hover{
+color: #D9F8C4;
+}
+
+
+.bet{
+ background-color: #F4E06D;
+ color: black;
+height: 40px;
+font-size: 1.2rem;
+position:relative;
+left: 15%;
+bottom:  200px;
+width: 30%;
+
+
+}
+
+
+.bet:hover{
+  background-color: #37E2D5;
+  font-family: "DynaPuff";
+}
+
+/*
+this is the conten section  */
+
+
+.First-container{
+  background-color: #54BAB9;
+
+}
+
+.page-conten{
+  position: absolute;
+  margin-left: 50%;
+  text-align:center;
+  padding-top: 10%;
+  font-size: 1.5rem;
+  font-family: "Anton";
+}
+
+.last-container{
+  background-color: #2C3333;
+  padding: 2%;
+  text-align: center;
+  margin: 0;
+}
+.end{
+  color: white;
+  padding: 20px;
+}
+
+
+.btn-end{
+  width: 40%;
+  height: 30px;
+  background-color: #F4E06D;
+
+}
+
+.btn-end:hover{
+  background-color: #37E2D5;
+  font-family: "DynaPuff";
+}
